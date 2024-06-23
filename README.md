@@ -17,17 +17,30 @@ Resources:
 Learn:
 
 NMap
+
 Google Dorking
+
 Github Dorking
+
 Subdomain Enumeration
+
 Spf Recording
+
 html injection
+
 open redirection
+
 parameter tampering
+
 directory listing
+
 no rate limit
+
 broken link hijacking
+
 long password dos attack
+
 s3 bucket
+
 active directory
 
