@@ -16,6 +16,8 @@ Resources:
 
 Learn:
 
+Security Headers
+
 NMap
 
 Google Dorking
