@@ -18,8 +18,6 @@ Learn:
 
 Security Headers
 
-NMap
-
 Google Dorking
 
 Github Dorking
@@ -33,8 +31,6 @@ html injection
 open redirection
 
 parameter tampering
-
-directory listing
 
 no rate limit
 
